@@ -8,4 +8,5 @@ I've included RevitAPI + RevitAPIUI files for those new to this, just in case. A
 created before this addin was loaded for some reason. Also included a bit of modelline code also by Jeremy, which I used to debug my
 code.
 
-First time making an addin! Was fun but frustrating at times.
+First time making an addin! Was fun but frustrating at times. (Images of dog and cat not included, you can replace those with anything)
+If someone wants to know where to put these files I can put that here in the readme too.
