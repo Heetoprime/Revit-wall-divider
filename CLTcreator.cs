@@ -163,8 +163,8 @@ namespace ClassLibrary1
                               = SketchPlane.Create(doc,
                                 Plane.CreateByThreePoints(
                                   line.Origin,
-                                  XYZ.BasisX,
-                                  XYZ.BasisY));
+                                  location.Curve.GetEndPoint(1),
+                                  wallWidthVector));
                                   
                             // An empty list of intersecting ElementIds
 
