@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type ="Application">
+    <Name>William's addin</Name>
+    <Assembly>./RevitClass1.dll</Assembly>
+    <AddInId>582D26B3-E8A0-40DB-84A2-885E7D5346FA</AddInId>
+    <FullClassName>RevitClass1.Base</FullClassName>
+    <VendorId>William</VendorId>
+    <Publisher>William</Publisher>
+    <VendorDescription>A cat in disguise</VendorDescription>
+  </AddIn>
+</RevitAddIns>
